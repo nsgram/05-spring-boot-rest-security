@@ -1,0 +1,1 @@
+update users set "password"='{bcrypt}$2a$10$WKFJZVoRUnUCnQToub2TLeXqItW3KzzsRRoTgMjDA/fo7k5wrCrM6'
